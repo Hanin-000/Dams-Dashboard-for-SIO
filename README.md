@@ -81,6 +81,8 @@ The dashboard was developed using **data analysis and visualization tools**, wit
 
 ## Preview
 
-* Watch a video demonstration of the dashboard:
+🎬 **Watch the Dashboard in Action:**  
+Click the button below to view a short demonstration of the interactive dashboard:
 
-[Dashboard Video](https://drive.google.com/file/d/1IAF4HRE3fnipRXar39W8Y1-VTJIgS4Bg/view?usp=sharing)
+[▶️ Watch Demo Video](https://drive.google.com/file/d/1IAF4HRE3fnipRXar39W8Y1-VTJIgS4Bg/view?usp=sharing)
+
